@@ -19,12 +19,16 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "expect": "^1.20.2",
-    "jsdom": "^9.2.0",
-    "mocha": "^6.1.4",
+    "install-peers": "^1.0.4",
+    "jsdom": "^20.0.2",
+    "mocha": "^10.1.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
-    "chai-fs": "^2.0.0"
+    "all": "0.0.0",
+    "chai-fs": "^2.0.0",
+    "dependencies": "0.0.1",
+    "peer": "^0.6.1"
   }
 }
